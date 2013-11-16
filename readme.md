@@ -15,7 +15,7 @@ The game of life has 4 basic rules:
 
 ## Overview
 
-This is a simple python implementation of the classic __Game of Life__ or __Life__.  Please feel free to expierment
+This is a simple python implementation of the classic __Game of Life__ or __Life__.  Please feel free to experiment
 with the code and make any changes.  I do plan to add some more features/functionality in the future.
 
 ## Planned Features
